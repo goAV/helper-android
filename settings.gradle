@@ -1,6 +1,6 @@
-include ':FacebookSDK:Facebook',
-        ':FacebookSDK:Firebase',
+include ':FacebookSDK:Firebase',
         ':Google',
         ':Helper',
         ':Model:ModelParser',
         ':Model:MVP'
+//':FacebookSDK:Facebook',
