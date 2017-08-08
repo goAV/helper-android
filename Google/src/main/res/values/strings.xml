@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright (c) 2017.
+  ~ By chinaume@163.com
+  -->
+
+<resources>
+    <string name="app_name">GoogleBill</string>
+
+    <string name="google_pay_wrong">错误</string>
+    <string name="google_pay_tip_1">GooglePay不支持</string>
+    <string name="google_pay_tip_3">GooglePlay连接建立失败,\n请检查GooglPlay</string>
+    <string name="google_pay_tip_4">连接超时,请重试</string>
+    <string name="google_pay_tip_2">确定</string>
+</resources>

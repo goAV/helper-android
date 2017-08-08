@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (c) 2017.
+  ~ By chinaume@163.com
+  -->
+
+<resources>
+    <string name="app_name">ModelParser</string>
+
+    <string name="error_message">网络请求发生错误</string>
+</resources>

@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2017.
+  ~ By chinaume@163.com
+  -->
+
+<resources>
+    <string name="app_name">KIT</string>
+    <string name="facebook_app_id">1735313646749357</string>
+    <string name="facebook_app_ak">ak1735313646749357</string>
+    <string name="facebook_app_client">990d204b52d335e91dc168e8fe56bc5c</string>
+</resources>
