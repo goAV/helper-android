@@ -1,6 +1,6 @@
 include ':FacebookSDK:Firebase',
-        ':Google',
-        ':Helper',
+//        ':Google',
+//        ':Helper',
         ':Model:ModelParser',
         ':Model:MVP'
 //':FacebookSDK:Facebook',

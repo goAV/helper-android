@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FacebookSDK/FacebookSDK.iml" filepath="$PROJECT_DIR$/FacebookSDK/FacebookSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/FacebookSDK/Firebase/Firebase.iml" filepath="$PROJECT_DIR$/FacebookSDK/Firebase/Firebase.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Google/Google.iml" filepath="$PROJECT_DIR$/Google/Google.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Helper/Helper.iml" filepath="$PROJECT_DIR$/Helper/Helper.iml" />
       <module fileurl="file://$PROJECT_DIR$/Model/MVP/MVP.iml" filepath="$PROJECT_DIR$/Model/MVP/MVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Model/Model.iml" filepath="$PROJECT_DIR$/Model/Model.iml" />
       <module fileurl="file://$PROJECT_DIR$/Model/ModelParser/ModelParser.iml" filepath="$PROJECT_DIR$/Model/ModelParser/ModelParser.iml" />

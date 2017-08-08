@@ -11,8 +11,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FacebookSDK" />
             <option value="$PROJECT_DIR$/FacebookSDK/Firebase" />
-            <option value="$PROJECT_DIR$/Google" />
-            <option value="$PROJECT_DIR$/Helper" />
             <option value="$PROJECT_DIR$/Model" />
             <option value="$PROJECT_DIR$/Model/MVP" />
             <option value="$PROJECT_DIR$/Model/ModelParser" />

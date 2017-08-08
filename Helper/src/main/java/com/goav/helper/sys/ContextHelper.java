@@ -27,20 +27,12 @@ import com.szdmcoffee.live.constant.Const;
 public final class ContextHelper {
 
 
-    public static Context get() {
-        return BeautyLiveApplication.getContextInstance();
-    }
-
     /**
      * @param context
      * @return {@link Context#getApplicationContext()}
      */
     public static Context basicContext(Context context) {
-        if (context == null) {
-            return BeautyLiveApplication.getContextInstance();
-        } else {
             return context.getApplicationContext();
-        }
     }
 
 
@@ -72,9 +64,5 @@ public final class ContextHelper {
             bundle = optionsCompat.toBundle();
         }
         ActivityCompat.startActivity(activity, null, bundle);
-    }
-
-    public static void allDestroy() {
-        ContextHelper.get().sendBroadcast(new Intent(Const.LIVE_FINISH_BROADCAST_ACTION));
     }
 }
