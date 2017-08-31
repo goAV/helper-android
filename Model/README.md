@@ -1,5 +1,10 @@
 ### Model Library
 
+```gradle
+com.github.goAV.helper-android:ModelParser:v0.2
+com.github.goAV.helper-android:MVP:v0.2
+```
+
 #### Retrofit
 
 ```java
